@@ -2,7 +2,7 @@
 
 ## Links
 
-Repo: 
+Repo: https://github.com/Coridane/social-media
 Video: https://drive.google.com/file/d/1AYZUT5tJCwCiKIpahXWURBZtT6j9m2vY/view?usp=sharing
 
 ## Your Task
